@@ -29,8 +29,8 @@ This project demonstrates how to interact with external APIs and manage secret k
 1. **Clone the repository:**
 
 ```
-git clone <your-repository-url>
-cd <repository-name>
+git clone [<your-repository-url>](https://github.com/HackSmith010/CLI-Weather-App.git)
+cd CLI-Weather-App
 ```
 
 2. **Install dependencies:**
